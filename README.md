@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-I use Gitlab. This is fan account. I don't use Github 
+I'm an educator. I enjoy educating people in Technology...
+
+I use Gitlab for personal code /-
