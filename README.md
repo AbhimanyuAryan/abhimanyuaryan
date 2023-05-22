@@ -1,18 +1,1 @@
-### Who am I?
-
-- I am a Julia OSS Contributor (Mostly Webbb 🌍)
-- Ask me anything GenieFramework 🧞‍♂️🧞🧞‍♀️
-
----------
-
-- Contact
-  - 📧: abhimanyuaryan@pm.me
-  - Twitter 🐦 => [theabhimanyu](https://twitter.com/theabhimanyu)
-  - Mastodon 🐘 => [abhi_jl](https://fosstodon.org/@abhi_jl)
-  - Website 🌐 => [abhimanyuaryan.com](https://abhimanyuaryan.com/)
-
-
-- Stackoverflow: https://stackoverflow.com/users/4417582/abhimanyuaryan
-
-📕📚 Books contributed
-- Web Development with Julia and Genie: A hands-on guide to high-performance server-side web development with the Julia programming language [Amazon Link](https://www.amazon.in/Development-Julia-Genie-hands-high-performance/dp/180181113X) (Technical Reviewer)
+<a href="https://stackoverflow.com/users/4417582/abhimanyuaryan"><img src="https://stackoverflow.com/users/flair/4417582.png?theme=dark" width="208" height="58" alt="profile for abhi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for abhi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
