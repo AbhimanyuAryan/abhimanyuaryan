@@ -58,7 +58,7 @@ eu = EuropeMap([
     "        |    |    |     +----+",
     "        |GRE |    |",
     "        +----+----+"
-], "Spain")
+], "some where in 🇪🇺")
 
 show_home(eu)
 ```
