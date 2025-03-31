@@ -2,6 +2,10 @@
 
 # Hi there, I'm Abhimanyu Aryan 👋 - call me (Aryan/Abhi)
 
+# Current hobby projects
+- Working with BAML to improve accuracy of response: https://www.promptfiddle.com/
+- Testing AG2 RAG 
+
 I'm a computer scientist with a passion for Julia programming and a love for a wide range of activities. Here's a bit about me:
 
 ## 🙋‍♂️ About Me
