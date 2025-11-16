@@ -4,7 +4,7 @@
 
 # Current hobby projects
 - Building [Claude](https://github.com/AbhimanyuAryan/AnthropicAgent) / [Gemini](https://github.com/AbhimanyuAryan/GeminiAgent) Agents
-- Testing AG2 RAG 
+- Current Research: mecanismos de consenso em múltiplos agentes
 
 I'm a computer scientist with a passion for Julia programming and a love for a wide range of activities. Here's a bit about me:
 
